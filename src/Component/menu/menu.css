@@ -1,0 +1,19 @@
+.menu{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.menu-btn{
+    appearance: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 10px 5px;
+    cursor: pointer;
+}
+
+.timer{
+    padding: 20px;
+
+}

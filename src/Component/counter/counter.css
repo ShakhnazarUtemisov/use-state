@@ -1,0 +1,19 @@
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 40px;
+    margin: 20px;
+    padding: 20x;
+    background-color: orange;
+    
+}
+
+.cyan > button{
+    width: 100px;
+    height: 50px;
+    margin: 5px;
+    background-color: blue;
+    color: #fff;
+}
